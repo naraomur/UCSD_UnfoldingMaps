@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/64947293/167344956-00db56a0-d619-4198-b150-f4e8f0479d3f.png)
 
-**1. Keyboard shortcuts**
+1. Keyboard shortcuts
 
     * Change map providers
     
@@ -19,11 +19,11 @@
     
     ![image](https://user-images.githubusercontent.com/64947293/167345993-93d6281e-b64b-437d-9f50-54e0d6973b6a.png)
  
-**2. Mouse Hover**
+2. Mouse Hover
 
     * Show a marker's detail drawn on top of other graphics
     
-**3. Mouse Clicks**
+3. Mouse Clicks
 
     * When clicking a city marker:
        - Shows an earthquake if the city is affected by its threat circle
